@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 80px;
+    margin-top: 60px;
+    font-family: 'Cinzel Decorative', cursive;
+    margin-left: 550px;
+    margin-bottom: 50px;
+}
+
+header nav ul li{
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+
+.menu{
+    list-style: none;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 80px 0px 90px;
+    font-size: 35px;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+.logo{
+    margin-left: 220px;
+    height: 250px;
+    width: 1500px;
+    margin-bottom: 50px;
+    border-width: 3px;
+    border-color: red;
+    border-style: solid;
+}
+
+p{
+    color: aliceblue;
+    font-size:20px;
+    text-align: center;
+    margin: 100px 300px 0px 300px;
+    text-align: justify;
+    font-size: 25px;
+}
+
+h2{
+    font-family: 'Castoro Titling', cursive;
+    color: rgb(249, 2, 2);
+    font-size: 50px;
+    text-align: center;
+    margin: 100px 0px 50px 0px;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container-form{
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+    display: grid;
+    
+}
+
+.container-form form .campo, textarea{
+    width: 200px;
+    padding: 15px 10px;
+    font-size: 15px;
+    border: solid #dbdbdb;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    outline: 0px;
+}
+
+.campo{
+    margin-bottom: 20px;
+    width: 400px;
+    height: 30px;
+}
+
+.space-msg{
+    width: 1000px;
+    height: 300px;
+}
+
+.btn-send{
+    width: 200px;
+    height: 30px;
+
+}
+
+footer div img{
+    width: 100px;
+    height: 100px;
+}
+
+.redes{
+    padding: 50px 0px 100px 800px;
+}
+
+.twitter{
+    margin: 0px 50px 0px -60px
+}
+
+.facebook{
+    margin: 0px 50px 0px 0px;
+}
+
+h4{
+    color: white;
+    font-size: 20px;
+    margin: 0px 0px 20px 0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    margin: 20px 20px 100px 20px;
+}
+
+.discos{
+    align-items: center;
+}
+
+.disco{
+    
+}
+
+.instagram{
+    margin-bottom: 0px;
+}
+
+.btn-send{
+    border: red;
+    border-radius: 5px;
+    border-width: 3px;
+    border-style: solid;
+}
